@@ -23,3 +23,6 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 **************
 
 ##How to contribute
+
+##Copyright 
+Git.Training
