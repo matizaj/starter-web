@@ -24,5 +24,7 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 ##How to contribute
 
+do something ordinary 
+
 ##Copyright 
 Git.Training
