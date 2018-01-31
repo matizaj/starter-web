@@ -7,7 +7,7 @@ lolek
 
 # THANKS
 
-    <name>
+    THANKS
 
 # TECHNOLOGY COLOPHON
 
