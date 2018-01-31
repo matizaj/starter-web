@@ -29,4 +29,4 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 do something ordinary 
 
 ##Copyright 
-Git.Training
+all right reserved
