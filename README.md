@@ -1,7 +1,7 @@
 #Starter Web Project 
 
 Tis is a simple website project for
-showing how to use Git and GitHub together adding and adding and adding 
+showing how to use Git and GitHub together adding and adding and adding, z branch myfeature
 
 ##Introduction
 
